@@ -17,12 +17,12 @@ Complete the following steps using VS Code or your favorite Code Editor.
 ### Step 1:  
 Type or copy the following program code into void main().
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### Step 2:  
 Please try executing (Run) the code from Step 1. What happens? Explain!
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 **Explanation:**  
 The code first creates a list with three elements: [1, 2, 3].
@@ -39,9 +39,9 @@ Modify the code in step 1 to use a final variable with an index of 5 and a defau
 
 What happens? If an error occurs, please fix it.
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 
 ### Note  
@@ -55,12 +55,12 @@ Complete the following practical steps using VS Code or your favorite code edito
 ### Step 1: 
 Type or copy the following program code into the main() function.
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ### Step 2:
 Please try executing (Run) the code in Step 1. What happens? Explain! Then, fix it if there is an error.
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 **Explanation:**  
 This code declares a set named halogens containing the elements 'fluorine', 'chlorine', 'bromine', 'iodine', and 'astatine'. The print statement will output the set elements. Sets in Dart do not allow duplicate values, and the output might not follow the order of insertion since sets are unordered collections.
@@ -68,13 +68,13 @@ This code declares a set named halogens containing the elements 'fluorine', 'chl
 ### Step 3:
 Add the following program code, then try to execute (Run) your code.
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 What happens? If an error occurs, please fix it while still using the three variables. Add your name and student ID (NIM) to both Set variables using two different functions: .add() and .addAll(). For the Map variable, remove it; we will try that in the next practical.
 
 Document the code and the results in the console, then create the report.
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 ---
 
@@ -84,12 +84,12 @@ Complete the following practical steps using VS Code or your favorite code edito
 ### Step 1: 
 Type or copy the following program code into the main() function.
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 ### Step 2:
 Please try executing (Run) the code in Step 1. What happens? Explain! Then, fix it if there is an error.
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 **Explanation**
 
@@ -98,13 +98,13 @@ This works without any errors, but note that in gifts, the values are a mix of s
 ### Step 3:
 Add the following program code, then try to execute (Run) your code. What happens? If an error occurs, please fix it.
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
 
 Add your name and student ID (NIM) to each of the variables above (gifts, nobleGases, mhs1, and mhs2). Document the results and create the report!
 
-![alt text](image-11.png)
+![alt text](img/image-11.png)
 
-![alt text](image-12.png)
+![alt text](img/image-12.png)
 
 **Explanation**
 
@@ -120,12 +120,12 @@ Complete the following practical steps using VS Code or your favorite code edito
 ### Step 1: 
 Type or copy the following program code into the main() function.
 
-![alt text](image-13.png)
+![alt text](img/image-13.png)
 
 ### Step 2:
 Please try executing (Run) the code from Step 1. What happens? Explain! Then, fix it if there is an error.
 
-![alt text](image-14.png)
+![alt text](img/image-14.png)
 
 **Explanation**
 
@@ -133,16 +133,16 @@ This error because there is typo on list variable name. when we initiate we give
 
 **After Fix**
 
-![alt text](image-15.png)
+![alt text](img/image-15.png)
 
-![alt text](image-16.png)
+![alt text](img/image-16.png)
 
 ### Step 3:
 Add the following program code, then try to execute (Run) your code. What happens? If an error occurs, please fix it.
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
-![alt text](image-18.png)
+![alt text](img/image-18.png)
 
 **Explanation**
 
@@ -150,22 +150,22 @@ Based on code above, we can't add value with different data type. In this case w
 
 **After fix**
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
-![alt text](image-20.png)
+![alt text](img/image-20.png)
 
 Add a list variable containing your student ID (NIM) using Spread Operators. Document the results and create the report!
 
-![alt text](image-21.png)
+![alt text](img/image-21.png)
 
-![alt text](image-22.png)
+![alt text](img/image-22.png)
 
 ### Step 4:
 Add the following program code, then try to execute (Run) your code. What happens? If an error occurs, please fix it. Show the results when the promoActive variable is true and false.
 
-![alt text](image-23.png)
+![alt text](img/image-23.png)
 
-![alt text](image-24.png)
+![alt text](img/image-24.png)
 
 **Explanation**
 
@@ -173,22 +173,22 @@ The variable promoActive is not defined. We need to define it before using it in
 
 **After fix**
 
-![alt text](image-25.png)
+![alt text](img/image-25.png)
 
-![alt text](image-26.png)
+![alt text](img/image-26.png)
 
 if false
 
-![alt text](image-27.png)
+![alt text](img/image-27.png)
 
-![alt text](image-28.png)
+![alt text](img/image-28.png)
 
 ### Step 5:
 Add the following program code, then try to execute (Run) your code. What happens? If an error occurs, please fix it. Show the results if the login variable has different conditions.
 
-![alt text](image-29.png)
+![alt text](img/image-29.png)
 
-![alt text](image-30.png)
+![alt text](img/image-30.png)
 
 **Explanation**
 
@@ -196,22 +196,22 @@ The variable login is not defined. We need to define it before using it in the l
 
 **After fix**
 
-![alt text](image-31.png)
+![alt text](img/image-31.png)
 
-![alt text](image-32.png)
+![alt text](img/image-32.png)
 
 with different condition.
 
-![alt text](image-33.png)
+![alt text](img/image-33.png)
 
-![alt text](image-34.png)
+![alt text](img/image-34.png)
 
 ### Step 6:
 Add the following program code, then try to execute (Run) your code. What happens? If an error occurs, please fix it. Explain the benefits of Collection For and document the results.
 
-![alt text](image-35.png)
+![alt text](img/image-35.png)
 
-![alt text](image-36.png)
+![alt text](img/image-36.png)
 
 **Explanation**
 
@@ -232,12 +232,12 @@ Complete the following practical steps using VS Code or your favorite code edito
 ### Step 1:
 Type or copy the following program code into the main() function.
 
-![alt text](image-37.png)
+![alt text](img/image-37.png)
 
 ### Step 2:
 Please try executing (Run) the code from Step 1. What happens? Explain! Then, fix it if there is an error.
 
-![alt text](image-38.png)
+![alt text](img/image-38.png)
 
 **Explanation**
 
@@ -248,14 +248,14 @@ We can access elements using positional access (like $1, $2) or by their named f
 
 **After fix**
 
-![alt text](image-39.png)
+![alt text](img/image-39.png)
 
-![alt text](image-40.png)
+![alt text](img/image-40.png)
 
 ### Step 3:
 Add the following program code outside the scope of void main(), then try to execute (Run) your code.
 
-![alt text](image-41.png)
+![alt text](img/image-41.png)
 
 What happens? If an error occurs, please fix it. Use the tukar() function within main() so that the value swapping process of fields in Records is clearly visible.
 
@@ -264,16 +264,16 @@ What happens? If an error occurs, please fix it. Use the tukar() function within
 The tukar function takes a record of type (int, int) as a parameter and returns a new record with the values swapped.
 This feature uses Record pattern matching, which allows destructuring the record into variables (a, b).
 
-![alt text](image-42.png)
+![alt text](img/image-42.png)
 
-![alt text](image-43.png)
+![alt text](img/image-43.png)
 
 ### Step 4:
 Add the following program code inside the scope of void main(), then try to execute (Run) your code.
 
-![alt text](image-44.png)
+![alt text](img/image-44.png)
 
-![alt text](image-45.png)
+![alt text](img/image-45.png)
 
 What happens? If an error occurs, please fix it. Initialize the name and NIM fields in the mahasiswa record variable above. Document the results and create the report!
 
@@ -283,16 +283,16 @@ mahasiswa is declared but not initialized, which results in an error when trying
 
 **After fix**
 
-![alt text](image-46.png)
+![alt text](img/image-46.png)
 
-![alt text](image-47.png)
+![alt text](img/image-47.png)
 
 ### Step 5:
 Add the following program code inside the scope of void main(), then try to execute (Run) your code.
 
-![alt text](image-48.png)
+![alt text](img/image-48.png)
 
-![alt text](image-49.png)
+![alt text](img/image-49.png)
 
 What happens? If an error occurs, please fix it. Replace one of the values in the record with your name and student ID (NIM), then document the results and create the report!
 
@@ -300,9 +300,9 @@ What happens? If an error occurs, please fix it. Replace one of the values in th
 
 The fields in the mahasiswa2 record can be accessed using positional access ($1, $2) or by their named keys (a, b).
 
-![alt text](image-50.png)
+![alt text](img/image-50.png)
 
-![alt text](image-51.png)
+![alt text](img/image-51.png)
 
 ## Assignment
 Please complete Practical 1 to 5, then document it with screenshots of your work along with explanations!
